@@ -4,8 +4,7 @@
 
 <p align="center">
   <b>I'm Harshada Mundwadkar</b><br>
-  A passionate <i>Computer Science student</i> aiming to build user-friendly educational tools that benefit students at scale.<br>
-  This project, <b>SmartEducationHub</b>, is a step toward that mission! 🎓🌐
+  A passionate <i>Computer Science student</i> who enjoys building user-friendly educational tools, exploring new technologies, and solving real-world problems through code.
 </p>
 
 <p align="center">
