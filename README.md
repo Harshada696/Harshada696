@@ -33,4 +33,4 @@
   🌟 <i>Thanks for visiting! Feel free to connect or reach out for collaborations, ideas, or feedback.</i> 🌟
 </p>
 
-<hr> from my resume add in this code 
+<hr> 
