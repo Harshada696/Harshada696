@@ -1,78 +1,36 @@
 <hr>
 
-<h2 align="center">👩‍💻 About Me</h2>
-
-<p align="center" style="max-width: 720px; margin: auto; font-size: 17px; line-height: 1.8;">
-  Hey there! I'm <b>Harshada Mundwadkar</b>, a Computer Science undergraduate from JNEC, Sambhajinagar, deeply passionate about technology and its power to solve real-world problems.
-  <br><br>
-  I specialize in full-stack web development, machine learning, and cloud-based systems. Whether it’s building a YouTube AI clone that summarizes videos, launching educational platforms, or experimenting with CNNs for fruit disease detection — I love combining code with creativity.
-  <br><br>
-  My toolkit includes <b>React, Node.js, Python, Java, SQL, Firebase</b> and cloud tools like <b>AWS & Azure</b>. I’ve also worked with Android Studio and IoT devices like Arduino. My projects often blend UI design with functionality — because good tech should feel intuitive.
-</p>
-
-<br>
-
-<h3 align="center">🛠 Tech Stack</h3>
+<h2 align="center">👩‍💻 About the Developer</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white" />
+  <b>I'm Harshada Mundwadkar</b><br>
+  A passionate <i>Computer Science student</i> who enjoys building user-friendly educational tools, exploring new technologies, and solving real-world problems through code.
 </p>
 
-<br>
-
-<h3 align="center">💡 What I've Built</h3>
-
-<p align="center" style="max-width: 720px; margin: auto; font-size: 16px; line-height: 1.8;">
-  ✨ <b>YouTube AI Clone:</b> Video summarization platform using AI APIs<br>
-  📘 <b>SmartEducationHub:</b> Student portal with 100+ resources and quizzes<br>
-  🍎 <b>Fruit Disease Detection:</b> CNN-based tool with 90%+ image classification accuracy<br>
-  ✈️ <b>Travel Management System:</b> Hybrid trip planner using Firebase & Java<br>
-  🍽️ <b>Renuka Foods Website:</b> Responsive PHP e-commerce site<br>
-  🤖 <b>Floor Cleaning Robot:</b> Arduino-powered obstacle detector and cleaner
+<p align="center">
+  <img src="https://img.shields.io/badge/Web%20Dev-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-%2300758F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-%2300599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/DBMS-%234285F4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI-%2300B4D8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-%23F7931E?style=for-the-badge" />
 </p>
-
-<br>
-
-<h3 align="center">📚 Certified In</h3>
-
-<p align="center" style="font-size: 15px;">
-  RDBMS, Python, Java, PHP & MySQL – <i>IIT Bombay</i><br>
-  DBMS – <i>NPTEL</i>, AWS Educate – <i>Credly</i>
-</p>
-
-<br>
-
-<h3 align="center">🌱 Giving Back</h3>
-
-<p align="center" style="max-width: 720px; margin: auto; font-size: 16px; line-height: 1.8;">
-  I’m an active <b>NSS member</b>, <b>Robin Hood Army volunteer</b>, and event organizer. I believe in combining tech skills with community service — whether that’s organizing blood donation drives or redistributing food.
-</p>
-
-<br>
-
-<h3 align="center">📬 Let's Connect</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/harshadamundwadkar-tech-student" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
   <a href="mailto:harshadamundwadkar@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Email-red?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/Harshada696" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github" />
+    <img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </p>
 
-<p align="center" style="font-size: 16px; margin-top: 10px;">
-  📱 <b>+91-8329056365</b><br>
-  🧠 <i>"Code is the closest thing we have to a superpower."</i>
+<p align="center">
+  🌟 <i>Thanks for visiting! Feel free to connect or reach out for collaborations, ideas, or feedback.</i> 🌟
 </p>
 
-<hr>
+<hr> from my resume add in this code 
