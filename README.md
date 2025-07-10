@@ -114,7 +114,6 @@
 
   <div class="section-title">📊 GitHub Activity Vibes</div>
   <div class="github-graph">
-    <!-- Simulated GitHub contribution blocks -->
     <div class="block" style="animation-delay: 0s;"></div>
     <div class="block" style="animation-delay: 0.2s;"></div>
     <div class="block" style="animation-delay: 0.4s;"></div>
